@@ -1,75 +1,58 @@
-# Nuxt Minimal Starter
+# 🍀 Lucky Vicky — Telegram Mini App
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Lucky Vicky is a Vue 3 + Nuxt 4 Telegram Mini App built for one sacred purpose:
+to bring you joy and mostly important - Jang Wonyoung's luck ✨
 
-## Setup
+Because why settle for boring fortune cookies when you can summon Lucky Vicky herself with just one button?
 
-Make sure to install dependencies:
+### 🔗 Live Demo
 
-```bash
-# npm
-npm install
+[Telegram Link](https://t.me/luckyluckytestingbot?startapp)
 
-# pnpm
-pnpm install
+---
+### ✨ Main Features
 
-# yarn
-yarn install
+* Personalized greeting: Lucky Vicky welcomes you by name, using your Telegram nickname
 
-# bun
-bun install
-```
+* One-button destiny: tap “Get Luck” and let fate do the rest
 
-## Development Server
+* Loading drama: a suspenseful loader that builds anticipation like a K-drama cliffhanger
 
-Start the development server on `http://localhost:3000`:
+* Lucky Vicky reveal: receive an amazing GIF of Wonyoung as Lucky Vicky — your daily fortune delivered with style
 
-```bash
-# npm
-npm run dev
+* Telegram integration: works natively inside Telegram, you can share luck with your friends
 
-# pnpm
-pnpm dev
+* No way back: once you’ve received your cosmic charge of luck, there’s no “Back” button. The path forward only. Lucky Vicky jana.
 
-# yarn
-yarn dev
+### 🛠 Technologies
 
-# bun
-bun run dev
-```
+* Vue 3 — fresh and modern
 
-## Production
+* Nuxt 4 — turbocharged Vue
 
-Build the application for production:
+* vue-router — handles page transitions (guiding you luckily from greeting to your fortune ✨)
 
-```bash
-# npm
-npm run build
+* vue-tg — the bridge between our code and Telegram’s universe
 
-# pnpm
-pnpm build
+### 🚀 Deployment
 
-# yarn
-yarn build
+The app is deployed on Netlify <br>
+For local development and testing in your own Telegram bot, you can also use ngrok
 
-# bun
-bun run build
-```
+### 🍓 Known Issues
 
-Locally preview production build:
+If the GIF doesn’t improve your mood, it’s not a bug — it’s just unlucky timing. <br> IVE girls sang:
+> Even if I stumble, luck is always on my side <br> I’m that I’m that girl I’m that (what) I’m that attitude
 
-```bash
-# npm
-npm run preview
+ So be THAT girl be THE attitude. And this miniapp will boost your luck 🍀
 
-# pnpm
-pnpm preview
+### 👩🏼‍💻 Author
 
-# yarn
-yarn preview
+Created with Vue and unconditional love for Lucky Vicky Wonyoungie 💖
+<br><br><br><br>
 
-# bun
-bun run preview
-```
+### 🎭 Image Spoiler
+_(you better experience it yourself in Telegram)_
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TBFchg1g/photo-2025-08-27-20-09-17.jpg" alt="photo-2025-08-27-20-09-17" border="0"></a>
