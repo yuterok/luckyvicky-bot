@@ -55,4 +55,4 @@ Created with Vue and unconditional love for Lucky Vicky Wonyoungie 💖
 _(you better experience it yourself in Telegram)_
 
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/TBFchg1g/photo-2025-08-27-20-09-17.jpg" alt="photo-2025-08-27-20-09-17" border="0"></a>
+![spoiler-image](https://i.ibb.co/TBFchg1g/photo-2025-08-27-20-09-17.jpg)
